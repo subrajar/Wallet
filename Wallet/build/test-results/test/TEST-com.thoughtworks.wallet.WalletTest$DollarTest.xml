@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.wallet.WalletTest$DollarTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-07-27T13:39:58" hostname="Subrajas-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="shouldBeAbleToWithdrawDollarFromWallet()" classname="com.thoughtworks.wallet.WalletTest$DollarTest" time="0.009"/>
+  <testcase name="shouldAddTwentyDollarToWallet()" classname="com.thoughtworks.wallet.WalletTest$DollarTest" time="0.001"/>
+  <testcase name="shouldReturnBalanceInDollarWhenRupeeAndDollarAdded()" classname="com.thoughtworks.wallet.WalletTest$DollarTest" time="0.001"/>
+  <testcase name="shouldReturnInitialBalanceAsZeroDollar()" classname="com.thoughtworks.wallet.WalletTest$DollarTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
